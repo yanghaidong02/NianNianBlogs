@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: '小张同学和小杨同学',
+  HERO_TITLE_2: '小杜同学和小刘同学',
   HERO_TITLE_3: 'TANGLY1024.COM',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是杨念礼',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
