@@ -17,7 +17,7 @@ const CommonHead = ({ meta, children }) => {
 
   return (
         <Head>
-            <title>{title}</title>
+            <title>杨念礼的个人博客</title>
             <meta name="theme-color" content={BLOG.BACKGROUND_DARK} />
             <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0" />
             <meta name="robots" content="follow, index" />
