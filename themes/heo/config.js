@@ -13,9 +13,9 @@ const CONFIG = {
   HERO_TITLE_1: '小张同学和小杨同学',
   HERO_TITLE_2: '小杜同学和小刘同学',
   HERO_TITLE_3: 'TANGLY1024.COM',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_4: 'MacBook Pro',
+  HERO_TITLE_5: '狠角色，很绝色。',
+  HERO_TITLE_LINK: 'https://www.apple.com.cn/macbook-pro/',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
