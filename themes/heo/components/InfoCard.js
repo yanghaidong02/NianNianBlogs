@@ -46,7 +46,7 @@ export function InfoCard(props) {
                         <Link href='/about'><GlobeAlt className={'w-6 h-6'} /></Link>
                     </div>
                     <div className='bg-indigo-400 p-2 rounded-full w-10 items-center flex justify-center transition-colors duration-200 dark:bg-yellow-500 dark:hover:bg-black hover:bg-white'>
-                        <Link href={CONFIG.INFO_CARD_URL}><i class="fa-duotone fa-star-and-crescent" /></Link>
+                        <Link href={CONFIG.INFO_CARD_URL}><i className='fa-thin fa-jedi' /></Link>
                     </div>
                 </div>
                 <MoreButton />
