@@ -5,14 +5,14 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://www.niannian.site/' },
+    { title: '一个热衷分享技术，自由且对生活充满热爱的青年，欢迎大家，随便逛逛', url: '' }
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '小张同学和小杨同学',
-  HERO_TITLE_2: '小杜同学和小刘同学',
-  HERO_TITLE_3: 'TANGLY1024.COM',
+  HERO_TITLE_1: '分享技术与技术',
+  HERO_TITLE_2: '一起探索',
+  HERO_TITLE_3: 'niannian.site',
   HERO_TITLE_4: 'MacBook Pro',
   HERO_TITLE_5: '狠角色，很绝色。',
   HERO_TITLE_LINK: 'https://www.apple.com.cn/macbook-pro/',
@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_3: { title: '写作资源', url: '/tag/写作资源' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
@@ -31,6 +31,11 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！我是杨念礼',
     '🔍 分享与热心帮助',
+    '🤝 专修交互与设计',
+    '🏃 脚踏实地行动派',
+    '🏠 智能家居小能手',
+    '🤖️ 数码科技爱好者',
+    '🧱 团队小组发动机'
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
