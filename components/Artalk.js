@@ -18,7 +18,7 @@ const Artalk = ({ siteInfo }) => {
       el: '#artalk', // 容器元素
       locale: BLOG.LANG,
       //   pageKey: '/post/1', // 固定链接 (留空自动获取)
-      pageTitle: '杨念礼的个人博客', // 页面标题 (留空自动获取)
+      // pageTitle: '杨念礼的个人博客', // 页面标题 (留空自动获取)
       site: siteInfo?.title// 你的站点名
     })
   }, [])
