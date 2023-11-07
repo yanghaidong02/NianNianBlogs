@@ -10,7 +10,7 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享技术与技术',
+  HERO_TITLE_1: '分享技术与资源',
   HERO_TITLE_2: '一起探索',
   HERO_TITLE_3: 'niannian.site',
   HERO_TITLE_4: 'MacBook Pro',
