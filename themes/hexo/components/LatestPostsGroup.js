@@ -13,6 +13,7 @@ import { useRouter } from 'next/router'
  */
 const LatestPostsGroup = ({ latestPosts, siteInfo }) => {
   // 获取当前路径
+  latestPosts.sort((a, b) => b.publishDate - a.publishDate)
   const currentPath = useRouter().asPath
   const { locale } = useGlobal()
 

@@ -10,7 +10,7 @@ import Link from 'next/link'
  */
 const LatestPostsGroup = ({ latestPosts, siteInfo }) => {
   // 获取当前路径
-
+  latestPosts.sort((a, b) => b.publishDate - a.publishDate)
   if (!latestPosts) {
     return <></>
   }
